@@ -6,6 +6,7 @@ namespace hipotenusa_t_y_angulo_a
     {
         static void Main(string[] args)
         {
+             // desafio 02-02
             // Este programa sirve para hallar los catetos y el angulo faltante, con un angulo (no el recto) y la hipotenusa
             //ingreso de datos
             Console.WriteLine("escriba hipotenusa t");
