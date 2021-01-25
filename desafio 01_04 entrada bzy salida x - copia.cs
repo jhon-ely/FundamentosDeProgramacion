@@ -26,7 +26,7 @@ namespace desafio_01_04
 
             // sacando la x usamos tangente para relacionar el co con ca, cancelando el adyacente en la operacion y restando el y que no hace parte de x
             // x=(tan(a+b)*z)-y  -> x= tan(53.13)*3)-y  -> tan=(co/ca) -> (((x+2)/3)*3)-2 -> x=(x+2)-2 
-            //usamos la expresion tagente para conectar el cateto donde se encontraba x, sin conoserla, paro si haciendo referencia al angulo al que era opuesto  
+            //usamos la expresion tangente para conectar el cateto donde se encontraba x, sin conoserla, pero si haciendo referencia al angulo al que era opuesto  
             double x = (Math.Tan(amasbgra) * z) - y;
             
             Console.WriteLine("x vale " + x);           
