@@ -7,6 +7,7 @@ namespace angulo_c_cateto_z
         static void Main(string[] args)
         {
 
+             // desafio 02-03
             // Este programa sirve para calcular el angulo faltante, la hipotenusa y cateto y, usando el angulo C y cateto z
             //pedir datos
             Console.WriteLine("Escriba angulo C");
