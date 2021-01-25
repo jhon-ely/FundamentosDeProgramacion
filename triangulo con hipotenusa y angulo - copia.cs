@@ -6,7 +6,7 @@ namespace trianguloconhipotenusayangulo
     {
         static void Main(string[] args)
         {
-            // Este programa sirve para hallar los catetos y el angulo faltante, con un angulo (no el recto) y la hipotenusa
+            // Este programa sirve para hallar los catetos y el angulo faltante, con un angulo a y la hipotenusa t
             //ingreso de datos
             Console.WriteLine("escriba hipotenusa t");
             double t = double.Parse(Console.ReadLine());
