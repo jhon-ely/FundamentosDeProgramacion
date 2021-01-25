@@ -6,7 +6,7 @@ namespace triangulo_rectamgulo_con_dos_catetos
     {
         static void Main(string[] args)
         {
-            // este programa sirve para calcular los otros aspectos del triangulo rectangulo, como hipotenusa y lados a travez de dos catetos
+            // este programa sirve para calcular los otros aspectos del triangulo rectangulo, como hipotenusa y angulos a travez de dos catetos, uno y y otro z
             Console.WriteLine("escriba cateto y");
             double y = double.Parse(Console.ReadLine());
             Console.WriteLine("escriba cateto z");
