@@ -6,7 +6,7 @@ namespace dos_catetos_y_z
     {
         static void Main(string[] args)
         {
-            // desafio 02-02
+            // desafio 02-03
             Console.WriteLine("escriba cateto y");
             double y = double.Parse(Console.ReadLine());
             Console.WriteLine("escriba cateto z");
